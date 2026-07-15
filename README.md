@@ -1,1 +1,3 @@
-# 2026-07-ARTM-COR-ST-036
+Title: Topology-Aware Multi-Hop Cluster Routing Framework for Energy-Efficient Wireless Sensor Networks
+
+Domain: Wireless Sensor Network, Topology-Aware Multi-Hop Cluster Routing Framework
